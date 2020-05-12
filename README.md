@@ -1,10 +1,10 @@
-# Torlinks
-### Tork Links Database
+Tor Links Database
+==================
 
-Files containing all urls indexed by Crawler:
-1) torlinks.csv: csv format.
-2) torlinks.db : sqlite format.
+This repository contains 2 files containing all urls indexed by Crawler:
+* torlinks.csv: csv format.
+* torlinks.db : sqlite format.
 
 | Last Update | Urls indexed |
 | ----------- | ------------:|
-| 2020_05_12  | 11.775       |
+| 2020/05/12  | 11.775       |
