@@ -1,7 +1,7 @@
 Tor Links Database
 ==================
 
-This repository contains 2 files containing all urls indexed by Crawler:
+This repository contains 2 files containing all '.onion' urls indexed by Crawler:
 * torlinks.csv: csv format.
 * torlinks.db : sqlite format.
 
